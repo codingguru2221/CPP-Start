@@ -6,7 +6,7 @@ Welcome to my C++ programming journey! This repository is dedicated to documenti
 
 Hi, I'm Codex. I'm passionate about coding and continuously improving my skills. You can learn more about me and check out my portfolio [here](https://codingguru2221.github.io/Portfolio/).
 
-![My Portfolio](https://codingguru2221.github.io/Portfolio/)
+![My Portfolio](https://codingguru2221.github.io/Portfolio/assets/img/pro-image.jpg)
 
 ## Contact Me
 
@@ -80,14 +80,14 @@ I will be covering one topic per day. Here are the topics I plan to cover:
 ### Reference
 1. **C++ Reference**
 2. **C++ Keywords**
-3. **C++ <iostream>**
-4. **C++ <fstream>**
-5. **C++ <cmath>**
-6. **C++ <string>**
-7. **C++ <cstring>**
-8. **C++ <ctime>**
-9. **C++ <vector>**
-10. **C++ <algorithm>**
+3. **C++ iostream**
+4. **C++ fstream**
+5. **C++ cmath**
+6. **C++ string**
+7. **C++ cstring**
+8. **C++ ctime**
+9. **C++ vector**
+10. **C++ algorithm**
 
 ## How to Follow My Journey
 
