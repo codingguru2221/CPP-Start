@@ -6,7 +6,7 @@ Welcome to my C++ programming journey! This repository is dedicated to documenti
 
 Hi, I'm Codex. I'm passionate about coding and continuously improving my skills. You can learn more about me and check out my portfolio [here](https://codingguru2221.github.io/Portfolio/).
 
-![My Portfolio](https://codingguru2221.github.io/Portfolio/assets/img/pro-image.jpg)
+![My Portfolio](https://codingguru2221.github.io/Portfolio/assets/img/hero-bg%20(2).jpg)
 
 ## Contact Me
 
